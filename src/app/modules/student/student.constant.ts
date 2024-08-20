@@ -1,0 +1,1 @@
+export const searchableQuery=['email', 'name.firstName', 'presentAddress']
